@@ -1,0 +1,25 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "gun.handgun.shoot": {
+      "sounds": [
+        "sounds/gun/handgun/shoot"
+      ]
+    },
+    "gun.assaultrifle.shoot": {
+      "sounds": [
+        "sounds/gun/assault_rifle/shoot"
+      ]
+    },
+    "gun.shotgun.shoot": {
+      "sounds": [
+        "sounds/gun/shotgun/shoot"
+      ]
+    },
+    "gun.sniperrifle.shoot": {
+      "sounds": [
+        "sounds/gun/sniper_rifle/shoot"
+      ]
+    }
+  }
+}
