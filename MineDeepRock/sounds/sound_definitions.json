@@ -20,6 +20,11 @@
       "sounds": [
         "sounds/gun/sniper_rifle/shoot"
       ]
+    },
+    "gun.smg.shoot": {
+      "sounds": [
+        "sounds/gun/sub_machine_gun/shoot"
+      ]
     }
   }
 }
