@@ -25,6 +25,11 @@
       "sounds": [
         "sounds/gun/sub_machine_gun/shoot"
       ]
+    },
+	"gun.lmg.shoot": {
+      "sounds": [
+        "sounds/gun/light_machine_gun/shoot"
+      ]
     }
   }
 }
