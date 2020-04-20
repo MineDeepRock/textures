@@ -61,6 +61,11 @@
       "sounds": [
         "sounds/gun/handgun/reload_end"
       ]
+    },
+    "gun.shotgun.pumpaction": {
+      "sounds": [
+        "sounds/gun/shotgun/pumpaction"
+      ]
     }
   }
 }
