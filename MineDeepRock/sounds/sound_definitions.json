@@ -52,6 +52,12 @@
         "sounds/gun/sniper_rifle/reload_start"
       ]
     },
+    "gun.smg.reload.start": {
+      "sounds": [
+        "sounds/gun/smg/reload_start"
+      ]
+    },
+
     "gun.assaultrifle.reload.end": {
       "sounds": [
         "sounds/gun/assault_rifle/reload_end"
@@ -70,6 +76,11 @@
     "gun.sniperrifle.reload.end": {
       "sounds": [
         "sounds/gun/sniper_rifle/reload_end"
+      ]
+    },
+    "gun.smg.reload.end": {
+      "sounds": [
+        "sounds/gun/smg/reload_end"
       ]
     },
 
