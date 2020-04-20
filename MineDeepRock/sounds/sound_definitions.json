@@ -30,6 +30,12 @@
       "sounds": [
         "sounds/gun/light_machine_gun/shoot"
       ]
+    },
+
+    "gun.assaultrifle.reload": {
+      "sounds": [
+        "sounds/gun/assault_rifle/reload"
+      ]
     }
   }
 }
