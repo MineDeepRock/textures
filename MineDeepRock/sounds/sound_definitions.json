@@ -32,9 +32,34 @@
       ]
     },
 
-    "gun.assaultrifle.reload": {
+    "gun.assaultrifle.reload.start": {
       "sounds": [
-        "sounds/gun/assault_rifle/reload"
+        "sounds/gun/assault_rifle/reload_start"
+      ]
+    },
+    "gun.lmg.reload.start": {
+      "sounds": [
+        "sounds/gun/light_machine_gun/reload_start"
+      ]
+    },
+    "gun.handgun.reload.start": {
+      "sounds": [
+        "sounds/gun/handgun/reload_start"
+      ]
+    },
+    "gun.assaultrifle.reload.end": {
+      "sounds": [
+        "sounds/gun/assault_rifle/reload_end"
+      ]
+    },
+    "gun.lmg.reload.end": {
+      "sounds": [
+        "sounds/gun/light_machine_gun/reload_end"
+      ]
+    },
+    "gun.handgun.reload.end": {
+      "sounds": [
+        "sounds/gun/handgun/reload_end"
       ]
     }
   }
