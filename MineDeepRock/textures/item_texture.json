@@ -9,13 +9,16 @@
       "textures": "textures/items/bullet/smg"
     },
     "paper": {
-      "textures": "textures/items/bullet/hd"
+      "textures": "textures/items/bullet/hg"
     },
     "brick": {
-      "textures": "textures/items/gun/12g"
+      "textures": "textures/items/bullet/12g"
     },
     "sugar": {
-      "textures": "textures/items/gun/sr"
+      "textures": "textures/items/bullet/sr"
+    },
+    "flint": {
+      "textures": "textures/items//bullet/lmg"
     }
   }
 }
