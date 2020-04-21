@@ -97,12 +97,12 @@
     },
     "gun.lmg.overheat": {
       "sounds": [
-        "sounds/gun/lmg/overheat"
+        "sounds/gun/light_machine_gun/overheat"
       ]
     },
     "gun.lmg.ready": {
       "sounds": [
-        "sounds/gun/lmg/ready"
+        "sounds/gun/light_machine_gun/ready"
       ]
     }
   }
