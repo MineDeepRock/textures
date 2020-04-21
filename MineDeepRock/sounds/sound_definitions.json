@@ -94,6 +94,16 @@
       "sounds": [
         "sounds/gun/sniper_rifle/cocking"
       ]
+    },
+    "gun.lmg.overheat": {
+      "sounds": [
+        "sounds/gun/lmg/overheat"
+      ]
+    },
+    "gun.lmg.ready": {
+      "sounds": [
+        "sounds/gun/lmg/ready"
+      ]
     }
   }
 }
