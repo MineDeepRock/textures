@@ -104,6 +104,11 @@
       "sounds": [
         "sounds/gun/light_machine_gun/ready"
       ]
+    },
+    "gun.shotgun.reload": {
+      "sounds": [
+        "sounds/gun/shotgun/reload"
+      ]
     }
   }
 }
