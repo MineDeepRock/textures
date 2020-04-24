@@ -47,11 +47,6 @@
         "sounds/gun/handgun/reload_start"
       ]
     },
-    "gun.sniperrifle.reload.start": {
-      "sounds": [
-        "sounds/gun/sniper_rifle/reload_start"
-      ]
-    },
     "gun.smg.reload.start": {
       "sounds": [
         "sounds/gun/smg/reload_start"
@@ -71,11 +66,6 @@
     "gun.handgun.reload.end": {
       "sounds": [
         "sounds/gun/handgun/reload_end"
-      ]
-    },
-    "gun.sniperrifle.reload.end": {
-      "sounds": [
-        "sounds/gun/sniper_rifle/reload_end"
       ]
     },
     "gun.smg.reload.end": {
@@ -108,6 +98,16 @@
     "gun.shotgun.reload": {
       "sounds": [
         "sounds/gun/shotgun/reload"
+      ]
+    },
+    "gun.sniperrifle.reload": {
+      "sounds": [
+        "sounds/gun/sniper_rifle/reload"
+      ]
+    },
+    "gun.sniperrifle.reload.clip": {
+      "sounds": [
+        "sounds/gun/sniper_rifle/reload_clip"
       ]
     }
   }
