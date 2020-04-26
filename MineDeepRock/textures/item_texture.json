@@ -18,7 +18,7 @@
       "textures": "textures/items/bullet/sr"
     },
     "flint": {
-      "textures": "textures/items//bullet/lmg"
+      "textures": "textures/items/bullet/lmg"
     }
   }
 }
