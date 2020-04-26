@@ -109,6 +109,31 @@
       "sounds": [
         "sounds/gun/sniper_rifle/reload_clip"
       ]
+    },
+
+    "gun.bullet.fly": {
+      "sounds": [
+        "sounds/gun/bullet/fly1",
+        "sounds/gun/bullet/fly2",
+        "sounds/gun/bullet/fly3",
+        "sounds/gun/bullet/fly4",
+        "sounds/gun/bullet/fly5",
+        "sounds/gun/bullet/fly6",
+        "sounds/gun/bullet/fly7",
+        "sounds/gun/bullet/fly8",
+        "sounds/gun/bullet/fly9",
+        "sounds/gun/bullet/fly10"
+      ]
+    },
+
+    "gun.bullet.hit.block": {
+      "sounds": [
+        "sounds/gun/bullet/hit_block1",
+        "sounds/gun/bullet/hit_block2",
+        "sounds/gun/bullet/hit_block3",
+        "sounds/gun/bullet/hit_block4",
+        "sounds/gun/bullet/hit_block5"
+      ]
     }
   }
 }
