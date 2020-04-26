@@ -32,85 +32,6 @@
       ]
     },
 
-    "gun.assaultrifle.reload.start": {
-      "sounds": [
-        "sounds/gun/assault_rifle/reload_start"
-      ]
-    },
-    "gun.lmg.reload.start": {
-      "sounds": [
-        "sounds/gun/light_machine_gun/reload_start"
-      ]
-    },
-    "gun.handgun.reload.start": {
-      "sounds": [
-        "sounds/gun/handgun/reload_start"
-      ]
-    },
-    "gun.smg.reload.start": {
-      "sounds": [
-        "sounds/gun/smg/reload_start"
-      ]
-    },
-
-    "gun.assaultrifle.reload.end": {
-      "sounds": [
-        "sounds/gun/assault_rifle/reload_end"
-      ]
-    },
-    "gun.lmg.reload.end": {
-      "sounds": [
-        "sounds/gun/light_machine_gun/reload_end"
-      ]
-    },
-    "gun.handgun.reload.end": {
-      "sounds": [
-        "sounds/gun/handgun/reload_end"
-      ]
-    },
-    "gun.smg.reload.end": {
-      "sounds": [
-        "sounds/gun/smg/reload_end"
-      ]
-    },
-
-    "gun.shotgun.pumpaction": {
-      "sounds": [
-        "sounds/gun/shotgun/pumpaction"
-      ]
-    },
-
-    "gun.sniperrifle.cocking": {
-      "sounds": [
-        "sounds/gun/sniper_rifle/cocking"
-      ]
-    },
-    "gun.lmg.overheat": {
-      "sounds": [
-        "sounds/gun/light_machine_gun/overheat"
-      ]
-    },
-    "gun.lmg.ready": {
-      "sounds": [
-        "sounds/gun/light_machine_gun/ready"
-      ]
-    },
-    "gun.shotgun.reload": {
-      "sounds": [
-        "sounds/gun/shotgun/reload"
-      ]
-    },
-    "gun.sniperrifle.reload": {
-      "sounds": [
-        "sounds/gun/sniper_rifle/reload"
-      ]
-    },
-    "gun.sniperrifle.reload.clip": {
-      "sounds": [
-        "sounds/gun/sniper_rifle/reload_clip"
-      ]
-    },
-
     "gun.bullet.fly": {
       "sounds": [
         "sounds/gun/bullet/fly1",
@@ -133,6 +54,54 @@
         "sounds/gun/bullet/hit_block3",
         "sounds/gun/bullet/hit_block4",
         "sounds/gun/bullet/hit_block5"
+      ]
+    },
+
+    "gun.reload.magazine.out": {
+      "sounds": [
+        "sounds/gun/reload/magazine/out"
+      ]
+    },
+    "gun.reload.magazine.in": {
+      "sounds": [
+        "sounds/gun/reload/magazine/out"
+      ]
+    },
+
+    "gun.reload.clip.push": {
+      "sounds": [
+        "sounds/gun/reload/clip/push"
+      ]
+    },
+    "gun.reload.clip.ping": {
+      "sounds": [
+        "sounds/gun/reload/clip/ping"
+      ]
+    },
+    "gun.reload.clip.one": {
+      "sounds": [
+        "sounds/gun/reload/clip/one"
+      ]
+    },
+
+    "gun.shotgun.pumpaction": {
+      "sounds": [
+        "sounds/gun/shotgun/pumpaction"
+      ]
+    },
+    "gun.sniperrifle.cocking": {
+      "sounds": [
+        "sounds/gun/sniper_rifle/cocking"
+      ]
+    },
+    "gun.lmg.overheat": {
+      "sounds": [
+        "sounds/gun/light_machine_gun/overheat"
+      ]
+    },
+    "gun.lmg.ready": {
+      "sounds": [
+        "sounds/gun/light_machine_gun/ready"
       ]
     }
   }
