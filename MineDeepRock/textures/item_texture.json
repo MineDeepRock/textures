@@ -19,6 +19,12 @@
     },
     "flint": {
       "textures": "textures/items/bullet/lmg"
+    },
+    "rabbit_hide": {
+      "textures": "textures/items/bullet/rv"
+    },
+    "beef_cooked": {
+      "textures": "textures/items/ration"
     }
   }
 }
