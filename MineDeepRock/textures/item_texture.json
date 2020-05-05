@@ -25,9 +25,6 @@
     },
     "beef_cooked": {
       "textures": "textures/items/ration"
-    },
-    "arrow": {
-      "textures": "textures/items/attachment"
     }
   }
 }
