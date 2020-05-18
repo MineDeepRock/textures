@@ -25,6 +25,9 @@
     },
     "beef_cooked": {
       "textures": "textures/items/ration"
+    },
+    "ghast_tear": {
+      "textures": "textures/items/frag_grenade"
     }
   }
 }
