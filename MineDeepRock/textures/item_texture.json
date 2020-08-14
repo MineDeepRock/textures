@@ -2,27 +2,6 @@
   "resource_pack_name": "vanilla",
   "texture_name": "atlas.items",
   "texture_data": {
-    "glowstone_dust": {
-      "textures": "textures/items/bullet/ar"
-    },
-    "rabbit_foot": {
-      "textures": "textures/items/bullet/smg"
-    },
-    "paper": {
-      "textures": "textures/items/bullet/hg"
-    },
-    "brick": {
-      "textures": "textures/items/bullet/12g"
-    },
-    "sugar": {
-      "textures": "textures/items/bullet/sr"
-    },
-    "flint": {
-      "textures": "textures/items/bullet/lmg"
-    },
-    "rabbit_hide": {
-      "textures": "textures/items/bullet/rv"
-    },
     "beef_cooked": {
       "textures": "textures/items/ration"
     },

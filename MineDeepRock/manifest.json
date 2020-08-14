@@ -3,13 +3,13 @@
   "header": {
     "name": "MineDeepRock",
     "description": "MineDeepRock ResourcePack",
-    "uuid": "d80ca0d7-6f5a-45f6-0cb9-6ddb84cb0ed2",
+    "uuid": "d016a5d7-1f6a-e5f6-0c61-6deb84cb0ed2",
     "version": [1,0,0]
   },
   "modules": [{
     "description": "MineDeepRock ResourcePack",
     "type": "resources",
-    "uuid": "d80ca0d7-6f5a-45f6-0cb9-6ddb84cb0ed2",
+    "uuid": "d01aa1df-699a-45f6-0cb5-6dab84cb0ed2",
     "version":[1,0,0]
   }]
 }
