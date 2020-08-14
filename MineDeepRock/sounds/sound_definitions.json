@@ -31,6 +31,11 @@
         "sounds/gun/light_machine_gun/shoot"
       ]
     },
+	"gun.dmr.shoot": {
+      "sounds": [
+        "sounds/gun/dmr/shoot"
+      ]
+    },
 
     "gun.bullet.fly": {
       "sounds": [
