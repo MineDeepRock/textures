@@ -7,6 +7,15 @@
     },
     "ghast_tear": {
       "textures": "textures/items/frag_grenade"
+    },
+	"iron_ingot": {
+      "textures": "textures/items/ammo_box"
+    },
+	"nether_wart": {
+      "textures": "textures/items/flare_box"
+    },
+	"gold_ingot": {
+      "textures": "textures/items/medicine_box"
     }
   }
 }
